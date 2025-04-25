@@ -1,5 +1,5 @@
 <h1>Hi, I'm Josh!<br/>
-  <a href="https://www.linkedin.com/in/joshmadakor/" target="_blank">
+  <a href="https://www.linkedin.com/in/joshua-petrone/" target="_blank">
     An IT and Cybersecurity Student & Enthusiast
   </a>
 </h1>
