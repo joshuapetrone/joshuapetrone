@@ -1,21 +1,14 @@
-<h1>Hi, I'm Josh!<br/>
-  <a href="https://www.linkedin.com/in/joshua-petrone/" target="_blank">
-    An IT and Cybersecurity Student & Enthusiast
-  </a>
-</h1>
+# Hi, I'm Josh!  
+[An IT and Cybersecurity Student & Enthusiast](https://www.linkedin.com/in/joshua-petrone/)
 
-<h2>👨‍💻 IT Projects:</h2>
+## 👨‍💻 IT Projects:
+- **pfSense DMZ Firewall Project**
+- **Active Directory Setup Environment**
 
-- 
+## 🛡️ Cybersecurity Projects:
+- [**pfSense DMZ Firewall Project**](https://github.com/joshuapetrone/pfSense-DMZ-Firewall-Project)
+- **Evilginx2 Phishing Project and Awareness**
 
-<h2>Cybersecurity Projects</h2>
-
-- [Pfsense DMZ Firewall Project](https://github.com/joshuapetrone/pfSense-DMZ-Firewall-Project/blob/main/README.md)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[youtube]: https://www.youtube.com
-[linkedin]: https://www.linkedin.com/in/joshua-petrone/
+## 🤳 Connect with me:
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/joshua-petrone/)
