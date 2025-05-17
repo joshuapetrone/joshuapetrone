@@ -2,7 +2,7 @@
 # [An IT and Cybersecurity Student & Enthusiast](https://www.linkedin.com/in/joshua-petrone/)
 
 ## 👨‍💻 IT Projects:
-- **pfSense DMZ Firewall Project**
+- [**pfSense DMZ Firewall Project**](https://github.com/joshuapetrone/pfSense-DMZ-Firewall-Project)
 - **Active Directory Setup Environment**
 
 ## 🛡️ Cybersecurity Projects:
